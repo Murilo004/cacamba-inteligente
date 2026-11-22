@@ -137,11 +137,11 @@ O protótipo foi capaz de:
 
 **Protótipo apresentado**
 
-![Protótipo](images/prototipo.jpg)
+![Protótipo](images/prototipo.jpeg)
 
 **Equipe durante a apresentação**
 
-![Equipe](images/Equipe.jpg)
+![Equipe](images/Equipe.jpeg)
 
 ## 🔮 Trabalhos Futuros
 
